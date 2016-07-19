@@ -1,0 +1,24 @@
+{
+  "name": "angular-for-noobs",
+  "version": "1.0.0",
+  "description": "Lesson for AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DojoDev/angular-for-noobs.git"
+  },
+  "author": "Rafael Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DojoDev/angular-for-noobs/issues"
+  },
+  "homepage": "https://github.com/DojoDev/angular-for-noobs#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
